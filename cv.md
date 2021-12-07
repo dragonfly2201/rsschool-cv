@@ -24,7 +24,7 @@
 
 - HTML5/CSS3
 - JavaScript(Basic)
-- Git/Github(basic)
+- Git/Github(Basic)
 - Figma
 - Adobe Photoshop
 - 3D Maya
