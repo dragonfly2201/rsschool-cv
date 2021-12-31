@@ -252,6 +252,11 @@ span:hover {
   color: #fcfcfc;
 }
 
+.score-img {
+  width: 200px;
+  float: right;
+}
+
 
 
 
