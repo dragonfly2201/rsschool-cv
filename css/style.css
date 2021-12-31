@@ -152,7 +152,7 @@ body.cv {
   display: flex;
   justify-content: space-around;
   width: 100%;
-  padding: 120px 30px 35px;
+  padding: 120px 135px 35px;
   border-bottom: 10px solid #a8c88d;
 }
 
@@ -243,11 +243,13 @@ span:hover {
   color: #0429FA;
 }
 
-.section-code {
-  width: 50%;
-  padding: 10px;
-  padding-bottom: 35px;
-  border-bottom: 1px solid #a8c88d;
+
+.pre {
+  overflow: auto;
+  padding: 0  50px 0 10px;
+  margin: 0;
+  background-color: #303030;
+  color: #fcfcfc;
 }
 
 
