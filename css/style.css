@@ -223,6 +223,12 @@ body.cv {
   list-style: none;
 }
 
+.section-list-projects {
+  margin: 0;
+  padding: 0;
+}
+
+
 .section-item {
   position: relative;
   margin: 0;
@@ -257,9 +263,50 @@ span:hover {
   float: right;
 }
 
+/*.markdown {
+  list-style-image: url("assets/icons/markdown_icon.png");
+}*/
 
 
+/*.markdown {
+  width: 121px;
+  height: 45px;
+  background-image: url("assets/icons/markdown_icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  }*/
 
+.ul-projects {
+  width: 300px;
+  list-style: none;
+  padding: 0;
+}
 
+.ul-projects li {
+  padding: 7px 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-left: 20px solid #0429FA;
+  box-shadow: 2px -2px 5px 0 rgba(0, 0, 0, 0.1), -2px -2px 5px 0 rgba(0, 0, 0, 0.1), 2px 2px 5px 0 rgba(0, 0, 0, 0.1);
+  font-size: 1.5em;
+  letter-spacing: 2px;
+  transition: 0.3s all linear;
+}
+
+.ul-projects li:nth-child(2) {
+  border-color: #accc92
+}
+.ul-projects a {
+  text-decoration: none;
+  color: #303030;
+}
+
+.span-markdown:hover {
+  color: #0429FA;
+}
+
+.span-cv:hover {
+  color: #accc92;
+}
 
 
