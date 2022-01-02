@@ -321,8 +321,6 @@ span:hover {
   display: inline-block;
   position: relative;
   background-color: #303030;
-  position: fixed;
-
 }
 
 .burger span::before {
