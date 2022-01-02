@@ -32,6 +32,7 @@ body.cv {
   width: 100%;
   position: fixed;
   background-color: #a8c88d;
+  z-index: 3;
 
 }
 
@@ -67,7 +68,7 @@ body.cv {
 }
 
 /*------*/
-.section-list li {
+/*section-list li {
   display: block;
 }
 
@@ -79,7 +80,7 @@ body.cv {
   background-color: cyan;
   justify-content: center;
   align-items: center;
-}
+}*/
 /*------*/
 /*footer*/
 .footer {
@@ -311,6 +312,7 @@ span:hover {
   padding: 5px;
   margin-left: auto;
   margin-top: 5px;
+
 }
 
 .burger span {
@@ -319,6 +321,8 @@ span:hover {
   display: inline-block;
   position: relative;
   background-color: #303030;
+  position: fixed;
+
 }
 
 .burger span::before {
