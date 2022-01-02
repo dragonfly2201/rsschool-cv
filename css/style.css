@@ -113,13 +113,6 @@ body.cv {
   background-color: #a8c88d;
   color: #fff;
 }
-/*.rss {
-  width: 130px;
-  height: 45;
-  background-image: url(./assets/images/rs_school_js_logo.svg);
-  background-size: contain;
-  background-repeat: no-repeat;
-}*/
 /*-----------*/
 /*--main--*/
 
@@ -305,13 +298,16 @@ span:hover {
 .burger {
   width: 50px;
   height: 40px;
-  background-color: #fcfcfc;
+  background-color: #accc92;
   display: none;
   align-items: center;
   justify-content: center;
   padding: 5px;
   margin-left: auto;
   margin-top: 5px;
+  cursor: pointer;
+  user-select: none;
+  z-index: 15;
 
 }
 
