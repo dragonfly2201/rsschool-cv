@@ -52,7 +52,7 @@
 ## Languages:
 
 - English-Intermadiate (*according to the online test on* ![EFset Logo](images/efset-logo_black.svg)[efset.org](https://www.efset.org/) )
-![Efset Score](images/score.jpeg)
+![Efset Score](assets/images/score.jpeg)
 - Hebrow-Fluent
 - Polish-Basic
 - Russian/Ukrainian-Native
